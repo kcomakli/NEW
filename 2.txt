@@ -1,1 +1,2 @@
 git github
+git 3. gün ilk deneme
