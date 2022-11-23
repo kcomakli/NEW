@@ -1,2 +1,4 @@
 git github
 git 3. gün ilk deneme
+
+ikinci deneme
